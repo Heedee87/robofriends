@@ -1,6 +1,8 @@
 # RoboFriends
 
-## React basic project
+## Basic React + Redux project
 * React
+* React Router
+* Redux
 
-Udemy course: Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) by Andrei Neagoie, Yihua Zhang
+Udemy course: The Complete Junior to Senior Web Developer Roadmap(2020) by Andrei Neagoie
